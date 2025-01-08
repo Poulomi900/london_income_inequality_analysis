@@ -1,4 +1,4 @@
-# london_income_inequality_analysis
+# London Income Inequality Analysis
 
 ## Project Objective
 
