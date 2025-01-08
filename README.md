@@ -15,3 +15,9 @@ The primary objective of this project is to build an end-to-end data pipeline on
 
 Derive insights on regional disparities in income inequality to help financial institutions design policies and products targeting areas with high inequality or housing cost burdens.
 Identify trends that could guide affordable housing investments or policy interventions.
+
+## Derived Insights
+#### 1.Housing cost impact by region:
+-London has the highest housing cost impact, with an absolute difference of 4.48, indicating significant financial stress from housing expenses.
+-Rest of UK has the least impact, with a housing cost impact of 1.15, reflecting better housing affordability.
+-Financial institutions should prioritize affordable housing initiatives in London to mitigate the high housing cost burden.
