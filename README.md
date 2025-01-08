@@ -21,3 +21,8 @@ Identify trends that could guide affordable housing investments or policy interv
 - London has the highest housing cost impact, with an absolute difference of 4.48, indicating significant financial stress from housing expenses.
 - Rest of UK has the least impact, with a housing cost impact of 1.15, reflecting better housing affordability.
 - Financial institutions should prioritize affordable housing initiatives in London to mitigate the high housing cost burden.
+
+#### 2.Trends in Income Inequality Over Time:
+- AHC is consistently higher than BHC, indicating significant post-housing disposable income due to subsidies or benefits.
+- Both BHC and AHC gradually increased from 2008/09 to 2018/19, peaking in 2018/19-2020/21.
+- AHC declined after 2018/19, dropping to 6.33 in 2020/21-2022/23, suggesting rising housing costs or reduced subsidies impacting disposable income.
