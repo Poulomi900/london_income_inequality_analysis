@@ -31,3 +31,13 @@ Identify trends that could guide affordable housing investments or policy interv
 - London has the highest income inequality (AHC) with an average of 9.81, significantly higher than other regions.
 - UK overall has moderate inequality (5.47), while the Rest of UK has the lowest inequality (5.07).
 - The stark disparity suggests that London faces severe income inequality challenges compared to the rest of the UK, warranting targeted financial and policy interventions.
+
+#### 4. Housing Cost Impact Percentage by Region:
+- London has the highest housing cost impact, with a significant reduction of -83.98% in disposable income due to housing costs.
+- The UK overall shows a housing cost impact of -33.90%, while the Rest of UK has the lowest impact at -29.22%, indicating better housing affordability outside London.
+- The stark difference in London highlights the severe burden of housing costs, making it a critical focus area for affordable housing policies and financial support programs.
+
+#### 5. Trends in Regional Income Inequality Over Time (AHC):
+- London shows the highest income inequality over time, peaking at 11.0 in 2018/19-2020/21 before declining to 9.0 in 2020/21-2022/23.
+- The Rest of UK maintains consistently low inequality, hovering around 5.1 for most years, with a slight decrease to 4.8 in 2020/21-2022/23.
+- UK overall remains steady, averaging 5.5 across years, indicating minimal variation in national inequality trends outside of London.
