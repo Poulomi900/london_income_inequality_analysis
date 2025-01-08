@@ -18,6 +18,6 @@ Identify trends that could guide affordable housing investments or policy interv
 
 ## Derived Insights
 #### 1.Housing cost impact by region:
--London has the highest housing cost impact, with an absolute difference of 4.48, indicating significant financial stress from housing expenses.
--Rest of UK has the least impact, with a housing cost impact of 1.15, reflecting better housing affordability.
--Financial institutions should prioritize affordable housing initiatives in London to mitigate the high housing cost burden.
+- London has the highest housing cost impact, with an absolute difference of 4.48, indicating significant financial stress from housing expenses.
+- Rest of UK has the least impact, with a housing cost impact of 1.15, reflecting better housing affordability.
+- Financial institutions should prioritize affordable housing initiatives in London to mitigate the high housing cost burden.
