@@ -26,3 +26,8 @@ Identify trends that could guide affordable housing investments or policy interv
 - AHC is consistently higher than BHC, indicating significant post-housing disposable income due to subsidies or benefits.
 - Both BHC and AHC gradually increased from 2008/09 to 2018/19, peaking in 2018/19-2020/21.
 - AHC declined after 2018/19, dropping to 6.33 in 2020/21-2022/23, suggesting rising housing costs or reduced subsidies impacting disposable income.
+
+#### 3. Regional Ranking by Income Inequality (AHC):
+- London has the highest income inequality (AHC) with an average of 9.81, significantly higher than other regions.
+- UK overall has moderate inequality (5.47), while the Rest of UK has the lowest inequality (5.07).
+- The stark disparity suggests that London faces severe income inequality challenges compared to the rest of the UK, warranting targeted financial and policy interventions.
